@@ -10,4 +10,4 @@ ___
 
 
 # Content
- 1. [LRU](https://github.com/asifmayilli/Education/tree/master/LRU)
+ 1. [LRU (Least Recently Used)](https://github.com/asifmayilli/Education/tree/master/LRU)
