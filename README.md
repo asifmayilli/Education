@@ -4,7 +4,7 @@ This repo was created by two students for educational purposes.
 ---
 
 # Purposes
-Our purpose is to collect and make it easier to find things we have learned so maybe others also can benefit from it
+Our purpose is to collect and make it easier to find things we have learned so maybe others can also benefit from it
 
 ___
 
