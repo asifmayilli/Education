@@ -11,3 +11,4 @@ ___
 
 # Content
  1. [LRU (Least Recently Used)](https://github.com/asifmayilli/Education/tree/master/LRU)
+ 2. [Ramanujan number](https://github.com/asifmayilli/Education/tree/master/Ramanujan)
