@@ -12,4 +12,4 @@ ___
 # Content
  1. [LRU (Least Recently Used)](https://github.com/asifmayilli/Education/tree/master/LRU)
  2. [Ramanujan number](https://github.com/asifmayilli/Education/tree/master/Ramanujan)
- 2. [10035 - Primary Arithmetic](https://github.com/asifmayilli/Education/tree/master/10035 - Primary Arithmetic)
+ 2. [10035 - Primary Arithmetic](https://github.com/asifmayilli/Education/tree/master/10035%20-%20Primary%20Arithmetic)
