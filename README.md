@@ -15,3 +15,5 @@ ___
  3. [10035 - Primary Arithmetic](https://github.com/asifmayilli/Education/tree/master/10035%20-%20Primary%20Arithmetic)
  4. [10110 - Light, More Light](https://github.com/asifmayilli/Education/tree/master/Light%20More%20Light)
  5. [Vector](https://github.com/asifmayilli/Education/tree/master/Vector)
+ 6. [Linked List](https://github.com/asifmayilli/Education/tree/master/LinkedList)
+ 7. [Queue](https://github.com/asifmayilli/Education/tree/master/Queue)
