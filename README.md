@@ -17,3 +17,4 @@ ___
  5. [Vector](https://github.com/asifmayilli/Education/tree/master/Vector)
  6. [Linked List](https://github.com/asifmayilli/Education/tree/master/LinkedList)
  7. [Queue](https://github.com/asifmayilli/Education/tree/master/Queue)
+ 8. [Hash Table](https://github.com/asifmayilli/Education/tree/master/Hash%20Table)
