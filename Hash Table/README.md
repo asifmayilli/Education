@@ -1,4 +1,4 @@
-# Implementation of simple Hash table in C++:
+# Implementation of simple Hash table with open addressing in C++:
 
     -hash_func(string key) - generates hash of key
     -add(string key, int value) - adds value with key to hash table if does not exists in table
