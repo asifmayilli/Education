@@ -19,4 +19,5 @@ ___
  7. [Queue](https://github.com/asifmayilli/Education/tree/master/Queue)
  8. [Hash Table](https://github.com/asifmayilli/Education/tree/master/Hash%20Table)
  9. [Heap](https://github.com/asifmayilli/Education/tree/master/Heap)
+ 10.[Quick Sort](https://github.com/asifmayilli/Education/tree/master/QuickSort)
  
